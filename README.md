@@ -14,11 +14,11 @@ In Chrome:
 Using the bookmarklet:
   1. Find an instagram post from which you'd like to save an image.
   2. CLick the "three dot" menu on the top-right of the post and select "Go to post".
-  3. On the following page, access your bookmarklet from your browsers bookmark bar - a clickable button on the top left of the page will appear.
-  4. Click the get image button, your window will now change to be exclusively the image.
-  5. Right-click and select save as.
+  3. On the following page, access your bookmarklet from your browsers bookmark bar - two clickable buttons on the top left of the page will appear.
+  4. Click the "Caption" button first- this will copy the original poster's caption to your clipboard to make citing them easier.
+  5. Next, click the "Image" button, your window will change to the image source where you can easily right-click and save.
 
 NOTES:
-  Image rights always belong to the original creator, please use others work responsibly, with permission and attribution.
+  Image rights always belong to the original creator, please use other's work responsibly, with permission and attribution.
   This is tested to work when following the above instructions in Chrome and Firefox. I assume no responsibility for uninteded behavior of the bookmarklet.
-  This was originally intended to directly download images. Cross-origin image downloads seem to be blocked in many current browsers. The right-click, save option is currently      the fastest workaround.
+  This was originally intended to directly download images. Cross-origin image downloads seem to be blocked in many current browsers. The right-click, save option is currently      the fastest workaround to my knowledge.
