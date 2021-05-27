@@ -2,17 +2,16 @@ javascript:(function(){
     var currentURL = window.location.href;
     var isIG = currentURL.includes("www.instagram.com");
     if(isIG==true){
-        var img= document.querySelector("img.FFVAD");
-        var body = document.querySelector("body");
+        const img= document.querySelector("img.FFVAD");
+        const body = document.querySelector("body");
     
-        var dwnldBtn = document.createElement('a');
-        var captionBtn = document.createElement('a');
-        var dummyInput = document.createElement('textarea');
+        const dwnldBtn = document.createElement('a');
+        const captionBtn = document.createElement('a');
+        const dummyInput = document.createElement('textarea');
     
-        var handleLink = document.getElementsByClassName("sqdOP yWX7d     _8A5w5   ZIAjV ");
-        var captionContainer = document.getElementsByClassName("C4VMK");
-        var featuredHandle = handleLink[0].innerText;
-        var featuredCaption = captionContainer[0].children;
+        const handleLink = document.getElementsByClassName("sqdOP yWX7d     _8A5w5   ZIAjV ");
+        const captionContainer = document.getElementsByClassName("C4VMK");
+        const featuredCaption = captionContainer[0].children;
     
         captionBtn.addEventListener("click", makeCaption);
     
