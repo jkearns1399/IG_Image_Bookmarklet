@@ -13,7 +13,7 @@ In Chrome:
   
 Using the bookmarklet:
   1. Find an instagram post from which you'd like to save an image.
-  2. CLick the "three dot" menu on the top-right of the post and select "Go to post".
+  2. Click the "three dot" menu on the top-right of the post and select "Go to post".
   3. On the following page, access your bookmarklet from your browsers bookmark bar - two clickable buttons on the top left of the page will appear.
   4. Click the "Caption" button first- this will copy the original poster's caption to your clipboard to make citing them easier.
   5. Next, click the "Image" button, your window will change to the image source where you can easily right-click and save.
