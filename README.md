@@ -1,6 +1,6 @@
 # IG_Image_Bookmarklet
 
-This script retrieves the image URL from an Instagram post page accessed from desktop. It then creates a button in the top-left of the user's screen which opens a webpage where that image can be saved.
+This script retrieves the image URL and caption from an Instagram post page accessed from desktop. It then creates buttons in the top-left of the user's screen which are used to share the retrieved information.
 
 To use this script, a bookmarklet needs to be created in your browser:
 
